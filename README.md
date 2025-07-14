@@ -1,30 +1,78 @@
-# Walmart Sustainability
+# 🛍️ EcoMart – Rethinking Retail for a Sustainable Future
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+A project submission for **Walmart Sparkathon 2025**  
+by **Manasvi Singh, Manishika Gupta, Khushi Mittal, and Sneha Roychowdhury**
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/manasvis-projects-2f2c2216/v0-walmart-sustainability)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/P462ZvmpxIj)
+---
 
-## Overview
+## 🌱 Overview
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+**EcoMart** is a sustainability-first digital retail experience that empowers shoppers to make eco-conscious choices through AI-driven insights, smart notifications, gamification, and impactful rewards—seamlessly integrated into Walmart’s online shopping ecosystem.
 
-## Deployment
+We believe sustainability should be intuitive, rewarding, and deeply personal. Our solution helps bridge the gap between consumer intent and actionable eco-decisions while aligning with **UN SDGs** and **Walmart’s values and regenerative goals**.
 
-Your project is live at:
+---
 
-**[https://vercel.com/manasvis-projects-2f2c2216/v0-walmart-sustainability](https://vercel.com/manasvis-projects-2f2c2216/v0-walmart-sustainability)**
+## 🔗 Live Demo
 
-## Build your app
+👉 [**Deployed Project Link**](https://walmart-ladybugs.vercel.app)
 
-Continue building your app on:
+---
 
-**[https://v0.dev/chat/projects/P462ZvmpxIj](https://v0.dev/chat/projects/P462ZvmpxIj)**
+## 🎯 Problem Statement
 
-## How It Works
+In today’s fast-moving retail world, consumers lack clear, actionable guidance to shop sustainably. Despite rising awareness, they struggle to identify eco-friendly products, track their impact, or feel rewarded. Near-expiry and reusable items often go to waste due to lack of visibility and incentives.
 
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+---
+
+## 💡 Our Solution
+
+We introduce a set of features that transform Walmart’s e-commerce platform into a personalized sustainability assistant:
+
+- **Sustainable Mode Toggle** – Easily switch to a view that prioritizes eco-friendly products (e.g., BPA-free, recyclable, ethically sourced).
+- **Green Points System** – Earn rewards for every sustainable action: choosing eco-delivery, trading in electronics, using near-expiry items, etc.
+- **Expiry Notifications with Recipes** – Get alerts for items nearing expiry, along with DIY recipes to reduce food waste.
+- **AI-Powered Image Scanning** – Upload product photos to categorize and suggest recycling/trade-in actions.
+- **Eco Dashboard** – Track personal sustainability metrics like CO₂ saved, plastic avoided, water preserved, and eco-streaks.
+- **Goal Tracker & Badges** – Set and track custom sustainability goals and unlock achievements.
+- **EcoMart Assistant (Chatbot)** – AI-powered chatbot for sustainability guidance, product discovery, and real-time help.
+- **DIY Corner** – Creative tutorials for upcycling and low-waste living.
+
+---
+
+## ⚙️ Tech Stack
+
+- **Frontend:** React.js, Tailwind CSS  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Authentication:** Firebase (OTP login)  
+- **AI/ML:** TensorFlow.js, ml5.js (PoseNet), custom image classification models  
+- **Chatbot:** Chatbase + custom prompt logic  
+- **Search/Recommendation Engine:** ChromaDB for semantic matching
+
+---
+
+## 🌍 SDGs Aligned
+
+- **SDG 12:** Responsible Consumption & Production  
+- **SDG 13:** Climate Action  
+- **SDG 3:** Good Health & Well-being  
+- **SDG 9:** Industry, Innovation & Infrastructure  
+- **SDG 17:** Partnerships for the Goals
+
+---
+
+## 💬 Team Members
+
+- **Manasvi Singh**  
+- **Manishika Gupta**  
+- **Khushi Mittal**  
+- **Sneha Roychowdhury**
+
+---
+
+## 🏁 Final Note
+
+EcoMart is not just a product—it’s a mission. It blends tech, behavior science, and design to empower every Walmart customer to contribute to a better planet with every purchase.
+
+> "Because sustainability shouldn't be a challenge—it should be a choice."
